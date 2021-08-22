@@ -1,4 +1,4 @@
-
+![Proje Resmi](https://prnt.sc/1qen4kr)
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
